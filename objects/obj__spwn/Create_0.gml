@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 004D30C5
-/// @DnDArgument : "expr" "10000"
+/// @DnDArgument : "expr" "1000"
 /// @DnDArgument : "var" "spawnrate"
-spawnrate = 10000;
+spawnrate = 1000;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
